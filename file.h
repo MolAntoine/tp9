@@ -19,3 +19,4 @@ T_Elt  premier(T_File *); //valeur en tete de file
 void afficherFile(T_File *); 
 
 
+int testFile(T_File *P,T_Elt *ptrE);
